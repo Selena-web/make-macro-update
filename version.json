@@ -1,5 +1,5 @@
 {
-    "version": "2.8.0",
-    "url": "https://github.com/Selena-web/make-macro-update/releases/download/v2.8.0/MAKE.Macro.exe",
-    "notes": "1. 新增自动更新功能\n2. 修复小键盘录制时特殊字符编码转化问题"
+    "version": "2.9.0",
+    "url": "https://github.com/Selena-web/make-macro-update/releases/download/v2.9.0/MAKE.Macro.exe",
+    "notes": "1. 新增自动更新功能\n2. 修复小键盘录制时特殊字符编码转化问题\n3. 修复了更新时重启后校验弹窗问题"
 }
